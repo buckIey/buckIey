@@ -3,4 +3,4 @@
 </p>
 
 <p align="center">
-  <img width="357" height="455" src="https://files.catbox.moe/63o24a.gif">
+  <img width="100px" height="150px" src="https://files.catbox.moe/63o24a.gif">
